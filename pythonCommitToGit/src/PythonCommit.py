@@ -15,6 +15,8 @@ def addFixedValue(a):
 
 print("Did this make it to GitHub?...")
 
+print("branch vscode - does it push/pull/merge?...")
+
 ansTwoVal = addTwoValues(1, 2)
 print (ansTwoVal)
 
