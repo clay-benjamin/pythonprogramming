@@ -22,3 +22,5 @@ print (ansTwoVal)
 
 ansFixedVal = addFixedValue(7)
 print(ansFixedVal)
+
+print("Clone then Upload - does it push/pull/merge?...")
